@@ -1,11 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]()
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif	)]()
 <h1 align="center">Hi 👋, I'm Ganteda Aravind</h1>
 <h3 align="center">MERN Stack Developer with expertise in Machine Learning and a passion for Generative AI. I specialize in building scalable web applications and crafting intelligent, data-driven solutions through innovative code</h3>
-<img align = "right" width = "400" src = "https://t3.ftcdn.net/jpg/06/01/17/18/240_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" alt = "Coder" />
+(<img align = "right" width = "400" src = "https://t3.ftcdn.net/jpg/06/01/17/18/240_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" alt = "Coder" />)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gantedaaravind&label=Profile%20views&color=0e75b6&style=flat" alt="gantedaaravind" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gantedaaravind" alt="gantedaaravind" /></a> </p>
 
 - 🌱 I’m currently learning **MERN**
 
@@ -15,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ganteda-aravind-113b2427a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganteda-aravind" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ganteda-aravind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganteda-aravind" height="30" width="40" /></a>
 <a href="https://kaggle.com/gantedaaravind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gantedaaravind" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gantedaaravind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gantedaaravind" height="30" width="40" /></a>
 </p>
