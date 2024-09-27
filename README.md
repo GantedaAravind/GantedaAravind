@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif	)]
+[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)]
 <h1 align="center">Hi 👋, I'm Ganteda Aravind</h1>
 <h3 align="center">MERN Stack Developer with expertise in Machine Learning and a passion for Generative AI. I specialize in building scalable web applications and crafting intelligent, data-driven solutions through innovative code</h3>
 (<img align = "right" width = "400" src = "https://t3.ftcdn.net/jpg/06/01/17/18/240_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" alt = "Coder" />)
